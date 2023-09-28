@@ -21,7 +21,7 @@ Yo ✌️, I'm Suraj Yadav</h1>
 - 💬 Ask me anything. Happy to help .<br>
 - 📫 connect with  me around the web:<br>
 
-<a href="https://www.linkedin.com/in/suraj-yadav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/iam-suraj-yadav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:surajyadav434803@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 </div>
 
