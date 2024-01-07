@@ -32,7 +32,7 @@ Yo ✌️, I'm Suraj Yadav</h1>
 <hr>
 <table>
   <tr>
-<td><a href="https://github.com/Satyam2003-dev/">
+<td><a href="https://github.com/surajyadav987/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=surajyadav987&theme=radical&show_icons=true&count_private=true&include_all_commits=true" height="180rem" />
   </a></td>
     
